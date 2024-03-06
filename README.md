@@ -1,7 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=38D2AF&width=435&lines=Hi!;Welcome+to+my+github+profile)](https://git.io/typing-svg)
-
-### Hi there 👋
-💬 Ask me about ...
 <!--
 **FilipRybinski/FilipRybinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
